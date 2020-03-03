@@ -1,3 +1,4 @@
 def introduction(name, language)
-  puts "Hi my name is, " + name + " and I am learning in #{language}."
+  phrase = "Hi my name is, " + name + " and I am learning in #{language}."
+  puts phrase
 end
